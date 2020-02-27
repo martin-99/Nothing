@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb9ec2b1-5850-49bb-a5ca-375385ccb21e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Wsiaaro4uPy6gxfyPhsC0IB0rJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AmazonScraper" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="FirstApp" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9ec2b1-5850-49bb-a5ca-375385ccb21e" name="Default Changelist" comment="" />
+      <created>1579944769188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579944769188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="59" width="847" height="684" key="#Project_Structure" timestamp="1579945702542">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="313" y="59" width="847" height="684" key="#Project_Structure/70.27.1296.741@70.27.1296.741" timestamp="1579945702542" />
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579946758073">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1579946758073" />
+    <state x="526" y="101" width="374" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1579967807951">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="526" y="101" width="374" height="599" key="#com.intellij.ide.util.MemberChooser/70.27.1296.741@70.27.1296.741" timestamp="1579967807951" />
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580334214089">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1580334214089" />
+    <state width="1250" height="40" key="GridCell.Tab.0.bottom" timestamp="1580334217065">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="40" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1580334217065" />
+    <state width="1250" height="40" key="GridCell.Tab.0.center" timestamp="1580334217063">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="40" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1580334217063" />
+    <state width="1250" height="40" key="GridCell.Tab.0.left" timestamp="1580334217062">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="40" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1580334217062" />
+    <state width="1250" height="40" key="GridCell.Tab.0.right" timestamp="1580334217064">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="40" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1580334217064" />
+    <state width="1250" height="215" key="GridCell.Tab.1.bottom" timestamp="1580049774627">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.bottom/70.27.1296.741@70.27.1296.741" timestamp="1580049774627" />
+    <state width="1250" height="215" key="GridCell.Tab.1.center" timestamp="1580049774624">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.center/70.27.1296.741@70.27.1296.741" timestamp="1580049774624" />
+    <state width="1250" height="215" key="GridCell.Tab.1.left" timestamp="1580049774624">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.left/70.27.1296.741@70.27.1296.741" timestamp="1580049774624" />
+    <state width="1250" height="215" key="GridCell.Tab.1.right" timestamp="1580049774626">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="215" key="GridCell.Tab.1.right/70.27.1296.741@70.27.1296.741" timestamp="1580049774626" />
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1580079408141">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1580079408141" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1579969512766">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/70.27.1296.741@70.27.1296.741" timestamp="1579969512766" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580334080907">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1580334080907" />
+    <state x="408" y="296" width="636" height="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579945681235">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="408" y="296" width="636" height="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/70.27.1296.741@70.27.1296.741" timestamp="1579945681235" />
+    <state x="70" y="27" width="1286" height="741" key="new project wizard" timestamp="1580075449394">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="70" y="27" width="1286" height="741" key="new project wizard/70.27.1296.741@70.27.1296.741" timestamp="1580075449394" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/company/Product.java</url>
+          <line>9</line>
+          <properties field="doc" class="com.company.Product" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
